@@ -1,0 +1,193 @@
+[
+    {
+      "name": "3",
+      "subtopics": [
+        {
+          "name": "Input and Output",
+          "tag": "Basics",
+          "weight": 1,
+          "resources": [
+            {
+              "name": "HackerRank",
+              "url": "https://www.hackerrank.com/challenges/cpp-input-and-output/problem"
+            }
+          ]
+        },
+        {
+          "name": "Basic Data Types",
+          "tag": "Basics",
+          "weight": 1,
+          "resources": [
+            {
+              "name": "HackerRank",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem"
+            }
+          ]
+        },
+        {
+          "name": "Conditional Statements",
+          "tag": "Basics",
+          "weight": 1,
+          "resources": [
+            {
+              "name": "HackerRank",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem"
+            }
+          ]
+        },
+        {
+          "name": "Loops",
+          "tag": "Basics",
+          "weight": 1,
+          "resources": [
+            {
+              "name": "HackerRank",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem"
+            }
+          ]
+        },
+        {
+          "name": "Functions",
+          "tag": "Basics",
+          "weight": 2,
+          "resources": [
+            {
+              "name": "HackerRank",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-functions/problem"
+            }
+          ]
+        },
+        {
+          "name": "Arrays",
+          "tag": "Basics",
+          "weight": 2,
+          "resources": [
+            {
+              "name": "HackerRank - Fixed Size Arrays",
+              "url": "https://www.hackerrank.com/challenges/arrays-introduction/problem"
+            },
+            {
+              "name": "HackerRank - Variable Size Arrays",
+              "url": "https://www.hackerrank.com/challenges/variable-sized-arrays/problem"
+            }
+          ]
+        },
+        {
+          "name": "Strings",
+          "tag": "Basics",
+          "weight": 1,
+          "resources": [
+            {
+              "name": "HackerRank",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-strings/problem"
+            }
+          ]
+        },
+        {
+          "name": "Structs and Classes",
+          "tag": "Intermediate",
+          "weight": 5,
+          "resources": [
+            {
+              "name": "HackerRank - Structs",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-struct/problem"
+            },
+            {
+              "name": "HackerRank - Classes and Objects I",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-class/problem"
+            },
+            {
+              "name": "HackerRank - Classes and Objects II",
+              "url": "https://www.hackerrank.com/challenges/classes-objects/problem"
+            }
+          ]
+        },
+        {
+          "name": "Inheritance",
+          "tag": "Intermediate",
+          "weight": 2,
+          "resources": [
+            {
+              "name": "HackerRank",
+              "url": "https://www.hackerrank.com/challenges/inherited-code/problem"
+            }
+          ]
+        },
+        {
+          "name": "Polymorphism",
+          "tag": "Intermediate",
+          "weight": 2,
+          "resources": [
+            {
+              "name": "HackerRank - Abstract Classes",
+              "url": "https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem"
+            },
+            {
+              "name": "HackerRank - Virtual Functions",
+              "url": "https://www.hackerrank.com/challenges/virtual-functions/problem"
+            }
+          ]
+        },
+        {
+          "name": "Pointers",
+          "tag": "Intermediate",
+          "weight": 3,
+          "resources": [
+            {
+              "name": "HackerRank -  Pointer I",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-pointer/problem"
+            },
+            {
+              "name": "HackerRank - Pointer II",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-pointer/problem"
+            }
+          ]
+        },
+        {
+          "name": "Template Metaprogramming",
+          "tag": "Advanced",
+          "weight": 4,
+          "resources": [
+            {
+              "name": "CppCon - Template Metaprogramming I",
+              "url": "https://www.youtube.com/watch?v=VNJ4wiuxJM4"
+            },
+            {
+              "name": "CppCon - Template Metaprogramming II",
+              "url": "https://www.youtube.com/watch?v=0dtjDTEE0hQ"
+            }
+          ]
+        },
+        {
+          "name": "Variadic Functions",
+          "tag": "Advanced",
+          "weight": 2,
+          "resources": [
+            {
+              "name": "CppCon - Variadic Functions",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-pointer/problem"
+            }
+          ]
+        },
+        {
+          "name": "Lambda Functions",
+          "tag": "Advanced",
+          "weight": 3,
+          "resources": [
+            {
+              "name": "CppCon - Lambda Functions",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-pointer/problem"
+            },
+            {
+              "name": "CppCon - Generic Lambda Functions",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-pointer/problem"
+            },
+            {
+              "name": "CppCon - Variadic Lambda Functions",
+              "url": "https://www.hackerrank.com/challenges/c-tutorial-pointer/problem"
+            }
+          ]
+        }
+      ]
+    }
+  ]
