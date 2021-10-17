@@ -30,8 +30,10 @@ class RoadmapSet:
     
     def resource_list(self,resource_list):
         ans = ""
+        sr = 1
         for d in resource_list:
-            ans += d['name']+" : "+d['url']+'\n'
+            ans += "\n" + str(sr) + ". " + d['name']+ " : "+d['url']+'\n'
+            sr += 1
         return ans
 
     def next(self):
@@ -40,7 +42,7 @@ class RoadmapSet:
         else:
             d = self.cur_roadmap[self.index]
             self.index += 1
-            return "\n" + d['name'] + "\n You need to finsih in " + str(round(d['weight']*self.t)) + "hours. Here are the resourses \n" + self.resource_list(d['resources']) + "\n"
+            return "\n" + d['name'] + "\n You need to finish in " + str(round(d['weight']*self.t)) + " hours. Here are the resourses \n" + self.resource_list(d['resources']) + "\n"
 
 
     def list_all(self):
