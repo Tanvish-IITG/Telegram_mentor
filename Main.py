@@ -36,7 +36,7 @@ def start(update: Update, context: CallbackContext) -> None:
         fr'Hi {user.mention_markdown_v2()}\! ',
         reply_markup=ForceReply(selective=True),
     )
-    update.message.reply_text('Here are the list of list of learning path I can help you with \n 1. Backend Development \n 2. Android Development \n 3. C++. \n Type the serial number of the learning path you want help with.')
+    update.message.reply_text('Here are the list of list of learning path I can help you with \n 1. Backend Development \n 2. DS_Algo \n 3. C++. \n Type the serial number of the learning path you want help with.')
 
 def GivePath(i:int) -> str:
     pass
@@ -44,7 +44,7 @@ def GivePath(i:int) -> str:
 
 def reset_command(update: Update, context: CallbackContext) -> None:
     """Send a message when the command /help is issued."""
-    update.message.reply_text('Resting')
+    update.message.reply_text('Reseting')
     start(update,context)
 
 
@@ -58,9 +58,9 @@ def Handlestart(s):
         return "Not a valid Input"
 
     state = 1
-    roadmap.set(str(i)+".json")
+    roadmap.set(str(i))
 
-    return roadmap.list_all() + "\n Ender the topic number which you have covered seperated by commas /n"
+    return roadmap.list_all() + "\n Ender the topic number which you have covered seperated by commas \n"
 
 def HandleListofcoveredtopics(s):
     global state
@@ -106,7 +106,7 @@ def HandleNext(s:str):
         
 
     else:
-        return "Please type next to move or /restart to again start from begining"
+        return "Please type next to move or /reset to again start from begining"
     
 
 def HandleAllDone(s):

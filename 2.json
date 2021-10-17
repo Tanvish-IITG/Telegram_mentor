@@ -1,0 +1,316 @@
+[
+	{
+		"name": "2",
+		"subtopics": [
+			{
+				"name": "Time Complexity",
+				"tag": "Basic",
+				"weight": 1,
+				"resources": [
+					{
+						"name": "Introduction to Big-O",
+						"url": "https://www.youtube.com/watch?v=zUUkiEllHG0&ab_channel=WilliamFiset"
+					},
+					{
+						"name": "Algorithm Analysis",
+						"url": "https://darrenyao.com/usacobook/cpp.pdf#page=13"
+					}
+
+				]
+			},
+			{
+				"name": "Sorting & Sets",
+				"tag": "Basic",
+				"weight": 1,
+				"resources": [
+					{
+						"name": "Introduction to Sorting",
+						"url": "https://usaco.guide/CPH.pdf#page=35"
+					},
+					{
+						"name": "Sets, Maps",
+						"url": "https://usaco.guide/CPH.pdf#page=47"
+					}
+				]
+			},
+			{
+				"name": "Stacks & Queues",
+				"tag": "Basic",
+				"weight": 2,
+				"resources": [
+					{
+						"name": "Stack Introduction",
+						"url": "https://csacademy.com/lesson/stack_introduction/"
+					},
+					{
+						"name": "Queue Introduction",
+						"url": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/"
+					},
+					{
+						"name": "Minimum Stack/ Minimum Queue",
+						"url": "https://cp-algorithms.com/data_structures/stack_queue_modification.html"
+					}
+				]
+			},
+			{
+				"name": "Introduction to Greedy Algorithms",
+				"tag": "Basic",
+				"weight": 2,
+				"resources": [
+					{
+						"name": "Greedy algorithms",
+						"url": "https://usaco.guide/CPH.pdf#page=67"
+					}
+				]
+			},
+			{
+				"name": "Introduction to Graphs",
+				"tag": "Basic",
+				"weight": 3,
+				"resources": [
+					{
+						"name": "Graph Basics",
+						"url": "https://darrenyao.com/usacobook/cpp.pdf#page=43"
+					},
+					{
+						"name": "Graph representation",
+						"url": "https://csacademy.com/lesson/graph_representation/"
+					},
+					{
+						"name": "Depth First Search",
+						"url": "https://csacademy.com/lesson/depth_first_search/"
+					},
+					{
+						"name": "Breadth First Search",
+						"url": "https://csacademy.com/lesson/breadth_first_search/"
+					},
+					{
+						"name": "Bipartite Graphs",
+						"url": "https://usaco.guide/CPH.pdf#page=132"
+					}
+				]
+			},
+			{
+				"name": "Sorting & Searching",
+				"tag": "Basic",
+				"weight": 2,
+				"resources": [
+					{
+						"name": "Sorting and Comparators",
+						"url": "https://darrenyao.com/usacobook/cpp.pdf#page=36"
+					},
+					{
+						"name": "Custom Comparator function",
+						"url": "https://usaco.guide/CPH.pdf#page=40"
+					},
+					{
+						"name": "Two pointers-CF Edu",
+						"url": "https://codeforces.com/edu/course/2/lesson/9"
+					}
+				]
+			},
+			{
+				"name": "Binary Search",
+				"tag": "Basic",
+				"weight": 2,
+				"resources": [
+					{
+						"name": "CS Academy - Binary Search",
+						"url": "https://csacademy.com/lesson/binary_search/"
+					}
+				]
+			},
+			{
+				"name": "Introductory Number Theory",
+				"tag": "Basic",
+				"weight": 2,
+				"resources": [
+					{
+						"name": "Divisibility",
+						"url": "https://usaco.guide/CPH.pdf#page=207"
+					},
+					{
+						"name": "Modular Arithmetic",
+						"url": "https://usaco.guide/CPH.pdf#page=211"
+					}
+				]
+			},
+			{
+				"name": "Number Theory",
+				"tag": "Intermediate",
+				"weight": 4,
+				"resources": [
+					{
+						"name": "Extended Euclidean Algorithm",
+						"url": "https://cp-algorithms.com/algebra/extended-euclid-algorithm.html"
+					},
+					{
+						"name": "Modular Inverse",
+						"url": "https://cp-algorithms.com/algebra/module-inverse.html"
+					},
+					{
+						"name": "Linear Diophantine Equation",
+						"url": "https://cp-algorithms.com/algebra/linear-diophantine-equation.html"
+					},
+					{
+						"name": "Chinese Remainder Theorem",
+						"url": "https://cp-algorithms.com/algebra/chinese-remainder-theorem.html"
+					},
+					{
+						"name": "Euler's Totient Function",
+						"url": "https://cp-algorithms.com/algebra/phi-function.html"
+					},
+					{
+						"name": "Primality Tests",
+						"url": "https://cp-algorithms.com/algebra/primality_tests.html"
+					}
+				]
+			},
+			{
+				"name": "Dynamic Programming",
+				"tag": "Intermediate",
+				"weight": 5,
+				"resources": [
+					{
+						"name": "Introduction to DP",
+						"url": "https://usaco.guide/CPH.pdf#page=75"
+					},
+					{
+						"name": "Knapsack DP",
+						"url": "https://www.youtube.com/watch?v=1mtvm2ubHCY&ab_channel=Errichto"
+					},
+					{
+						"name": "Paths on Grids",
+						"url": "https://usaco.guide/CPH.pdf#page=81"
+					},
+					{
+						"name": "Longest Increasing Subsequence",
+						"url": "https://cp-algorithms.com/sequences/longest_increasing_subsequence.html"
+					},
+					{
+						"name": "Bitmask DP",
+						"url": "https://nwatx.me/post/dpbitmasks"
+					}
+				]
+			},
+			{
+				"name": "Graphs",
+				"tag": "Intermediate",
+				"weight": 5,
+				"resources": [
+					{
+						"name": "Disjoint Set Union",
+						"url": "https://codeforces.com/edu/course/2/lesson/7"
+					},
+					{
+						"name": "Topological Sort",
+						"url": "https://cp-algorithms.com/graph/topological-sort.html"
+					},
+					{
+						"name": "Minimum Spanning Trees",
+						"url": "https://cp-algorithms.com/graph/mst_kruskal.html"
+					}
+				]
+			},
+			{
+				"name": "Trees",
+				"tag": "Intermediate",
+				"weight": 5,
+				"resources": [
+					{
+						"name": "Euler Tour Technique",
+						"url": "https://codeforces.com/blog/entry/81527"
+					},
+					{
+						"name": "DP on Trees",
+						"url": "https://codeforces.com/blog/entry/20935"
+					},
+					{
+						"name": "Least Common Ancestor",
+						"url": "https://cp-algorithms.com/graph/lca.html"
+					},
+					{
+						"name": "Small-To-Large Merging(DSU on trees)",
+						"url": "https://codeforces.com/blog/entry/44351"
+					}
+				]
+			},
+			{
+				"name": "Segment Tree",
+				"tag": "Intermediate",
+				"weight": 4,
+				"resources": [
+					{
+						"name": "Segment Tree - CF Edu",
+						"url": "https://codeforces.com/edu/course/2/lesson/4/2"
+					}
+				]
+			},
+			{
+				"name": "Geometry",
+				"tag": "Hard",
+				"weight": 5,
+				"resources":[
+					{
+						"name": "Elementary Geometry",
+						"url": "https://usaco.guide/CPH.pdf#page=275"
+					},
+					{
+						"name": "Sweep line",
+						"url": "https://usaco.guide/CPH.pdf#page=286"
+					},
+					{
+						"name": "Convex Hull",
+                        "url": "https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html"	
+					},
+					{
+						"name": "Rotating Calipers",
+						"url": "https://codeforces.com/blog/entry/46162"
+					}
+				]
+			},
+			{
+				"name": "Flows",
+				"tag": "Hard",
+				"weight": 7,
+				"resources": [
+					{
+						"name": "Maximal Flow",
+						"url": "https://usaco.guide/CPH.pdf#page=191"
+					},
+					{
+						"name": "Minimum Cut",
+						"url": "https://usaco.guide/CPH.pdf#page=197"
+					},
+					{
+						"name": "Flow with Lower Bounds",
+						"url": "https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/flowext.pdf"
+					},
+					{
+						"name": "Minimum Cost Flow",
+						"url": "https://cp-algorithms.com/graph/min_cost_flow.html"
+					}
+				]
+			},
+			{
+				"name": "Polynomials",
+				"tag": "Hard",
+				"weight": 7,
+				"resources": [
+					{
+						"name": "Introduction to FFT",
+						"url": "https://cp-algorithms.com/algebra/fft.html"
+					},
+					{
+						"name": "FFT and variations",
+						"url": "https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it/"
+					},
+					{
+						"name": "Operations on Polynomials and Series",
+						"url": "https://cp-algorithms.com/algebra/polynomial.html"
+					}
+				]
+			}
+		]
+	}
+]
